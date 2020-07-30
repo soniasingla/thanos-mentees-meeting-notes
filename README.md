@@ -13,5 +13,7 @@ You can comment on the pull requests to discuss the notes, or raise issues if yo
 
 ## How to participate:
 
+Please make sure you read our Code of Conduct before participating so we can all enjoy the effort we put into this project. Following our Code of Conduct is a requirement for participation. Beyond the Code of Conduct we welcome the participation of everyone in contributing to our community. If you're unsure or afraid of anything, just ask or submit the issue or pull request anyways. We appreciate any sort of contribution.
+
 **Schedule:** Weekly meetings are on Friday at 08:00 PM IST | UTC 02:30 PM <br>
 **Link to Join:** https://meet.google.com/pce-xqgf-adc <br>
