@@ -25,8 +25,8 @@ Agenda's are posted to https://github.com/soniasingla/thanos-mentees-meeting-not
 
 If you have any query or need more information, feel free to ping:
 
-[Sonia Singla](https://github.com/soniasingla)
-[Uchechukwu Obasi](https://github.com/thisisobate)
-[Prem Kumar](https://github.com/prmsrswt/)
-[Thota Harshitha Chowdary](https://github.com/Harshitha1234)
+[Sonia Singla](https://github.com/soniasingla)<br>
+[Uchechukwu Obasi](https://github.com/thisisobate)<br>
+[Prem Kumar](https://github.com/prmsrswt/)<br>
+[Thota Harshitha Chowdary](https://github.com/Harshitha1234)<br>
 [Yash Sharma](https://github.com/yashrsharma44)
